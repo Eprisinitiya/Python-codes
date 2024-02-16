@@ -1,0 +1,5 @@
+Base_salary = float(input("Enter the basic salary: "))
+HRA = float(input("Enter HRA: "))
+other = float(input("Enter other allowances: "))
+Gross_salary = (Base_salary+HRA+other)
+print(Gross_salary)
