@@ -1,0 +1,6 @@
+n = int(input("Enter no. of integers: "))
+a1 = int(input("Enter the value of First integer (a1): "))
+a2 = int(input("Enter the value of Second integer (a2): "))
+d = (a2-a1)
+sum = n/2(2*a1+(n-1)*d)
+print(Sn)
